@@ -1,0 +1,25 @@
+#include<stdio.h>
+#define INTEGER int
+#define FLOAT float
+#define CHAR char
+int main(){
+INTEGER k=10;
+FLOAT r=34.95;
+CHAR ch='a';
+INTEGER i=10;//Raju Gajul 
+//abcde khcldcv
+//xyz lms
+printf("%d\n",k);
+INTEGER l=500;
+CHAR ch1='2'; /* asdgsdcdscj
+dscgdscudsyjchdbs
+bhvbdfvjdfvjf */
+FLOAT f=100;
+/* ghdsfsgdasdhg
+dsfjdsfiufjkfrf
+dshdsfrffkgkeg,
+dfvhbvdfhv
+*/
+}
+
+
